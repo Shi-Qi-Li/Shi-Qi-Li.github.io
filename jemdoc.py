@@ -31,6 +31,7 @@ import io
 from subprocess import *
 from types import *
 import tempfile
+import ctypes, locale
 
 def info():
   print(__doc__)
@@ -1554,7 +1555,9 @@ def procfile(f):
         ts = '%Y-%m-%d %H:%M:%S %Z'
       else:
         ts = '%Y-%m-%d'
+      locale.setlocale(locale.LC_ALL, '')
       s = time.strftime(ts, time.localtime(time.time()))
+      # print(s)
       hb(f.outf, f.conf['lastupdated'], s)
     if showsourcelink:
       hb(f.outf, f.conf['sourcelink'], f.inname)
@@ -1628,7 +1631,7 @@ def main():
       thisout = outname
 
     infile = io.open(inname, 'rb')
-    outfile = io.open(thisout, 'w')
+    outfile = io.open(thisout, 'w', encoding='utf-8')
 
 #    print(infile.read())
     f = controlstruct(infile, outfile, conf, inname)

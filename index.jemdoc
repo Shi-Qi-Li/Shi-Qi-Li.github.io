@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}
 ==Shiqi Li 
 
 ~~~
@@ -8,11 +8,11 @@ Undergraduate,\n
 1037 Luoyu Road \n
 Wuhan, China \n 
 Phone: \+86 137 5975 3355 \n
-E-post: /lishiqi/ \[@\] hust \[DOT\] edu \[DOT\] com
+E-post: /lishiqi/ \[@\] hust \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-I will receive my B.S. degree in automation from Huazhong University of Science and Technology ([https://www.hust.edu.cn HUST]) in 2021. In September 2022, I will enter Xi'an Jiaotong University  ([http://www.xjtu.edu.cn/ XJTU]) for my M.Sc. degree in computer science.
+I am a senior undergraduate student in Huazhong University of Science and Technology ([https://www.hust.edu.cn HUST]). In September 2022, I will join Xi'an Jiaotong University  ([http://www.xjtu.edu.cn/ XJTU]) for my M.Sc. degree in computer science.
 
 == Research
 My research interests include 

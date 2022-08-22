@@ -4,8 +4,8 @@
 ~~~
 {}{img_left}{photos/pulication/icpr2022w.png}{alt text}{250}{150}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 Lightweight Human Pose Estimation Using Loss Weighted by Target Heatmap\n 
-Shiqi Li, Xiang Xiang\n
-ICPR 2022 workshop \n 
+*Shiqi Li*, Xiang Xiang\n
+ICPR 2022 workshop, {{<font color=red size=+0.5><b>}}Best Paper Award (Honorable Mention){{</b></font>}} \n 
 \n
-[https://arxiv.org/abs/2205.10611 pdf]
+[https://arxiv.org/abs/2205.10611 pdf] / [https://github.com/HAIV-Lab/ICPR22w GitHub] 
 ~~~

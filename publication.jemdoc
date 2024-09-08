@@ -2,46 +2,55 @@
 ==Publication
 
 ~~~
-{}{img_left}{photos/pulication/kbs2024.png}{alt text}{250}{150}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+{}{img_left}{photos/pulication/ral2024a.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration\n 
+*Shiqi Li*, Jihua Zhu, Yifan Xie, Naiwen Hu, Di Wang\n
+IEEE Robotics and Automation Letters (RA-L) 2024 \n 
+\n
+[https://ieeexplore.ieee.org/document/10669215 paper] / [https://github.com/Shi-Qi-Li/MDGD code]
+~~~
+
+~~~
+{}{img_left}{photos/pulication/kbs2024.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 DBDNet:Partial-to-Partial Point Cloud Registration with Dual Branches Decoupling\n 
 *Shiqi Li*, Jihua Zhu, Yifan Xie\n
 Knowledge-Based Systems (KBS) 2024 \n 
 \n
-[https://www.sciencedirect.com/science/article/abs/pii/S0950705124004982 paper] / [https://github.com/Shi-Qi-Li/DBDNet GitHub]
+[https://www.sciencedirect.com/science/article/pii/S0950705124004982 paper] / [https://github.com/Shi-Qi-Li/DBDNet code]
 ~~~
 
 ~~~
-{}{img_left}{photos/pulication/tgrs2024.png}{alt text}{250}{150}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+{}{img_left}{photos/pulication/tgrs2024.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching\n
 Yifan xie, Jihua Zhu, *Shiqi Li*, Naiwen Hu, Pengcheng Shi\n
 IEEE Transactions on Geoscience and Remote Sensing (TGRS) 2024 \n
 \n
-[https://ieeexplore.ieee.org/document/10445523 paper]
+[https://ieeexplore.ieee.org/document/10445523 paper] / [https://github.com/IvanXie416/HECPG code]
 ~~~
 
 ~~~
-{}{img_left}{photos/pulication/ral2024.png}{alt text}{250}{150}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+{}{img_left}{photos/pulication/ral2024.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 Iterative Feedback Network for Unsupervised Point Cloud Registration\n 
 Yifan Xie\*, Boyu Wang\*, *Shiqi Li*, Jihua Zhu\n
 IEEE Robotics and Automation Letters (RA-L) 2024 \n 
 \n
-[https://ieeexplore.ieee.org/abstract/document/10404064 paper]
+[https://ieeexplore.ieee.org/document/10404064 paper] / [https://github.com/IvanXie416/IFNet code]
 ~~~
 
 ~~~
-{}{img_left}{photos/pulication/ral2023.png}{alt text}{250}{150}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+{}{img_left}{photos/pulication/ral2023.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration\n 
 Yifan Xie, Jihua Zhu, *Shiqi Li*, Pengcheng Shi\n
 IEEE Robotics and Automation Letters (RA-L) 2023 \n 
 \n
-[https://ieeexplore.ieee.org/abstract/document/10313937 paper]
+[https://ieeexplore.ieee.org/document/10313937 paper] / [https://github.com/IvanXie416/CMIGNet code]
 ~~~
 
 ~~~
-{}{img_left}{photos/pulication/icpr2022w.png}{alt text}{250}{150}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+{}{img_left}{photos/pulication/icpr2022w.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 Lightweight Human Pose Estimation Using Loss Weighted by Target Heatmap\n 
 *Shiqi Li*, Xiang Xiang\n
 International Conference on Pattern Recognition (ICPR) 2022 workshop, {{<font color=red size=+0.5><b>}}Best Paper Award (Honorable Mention){{</b></font>}} \n 
 \n
-[https://link.springer.com/chapter/10.1007/978-3-031-37660-3_5 paper] / [https://github.com/HAIV-Lab/ICPR22w GitHub] 
+[https://link.springer.com/chapter/10.1007/978-3-031-37660-3_5 paper] / [https://github.com/HAIV-Lab/ICPR22w code] 
 ~~~

@@ -1253,6 +1253,7 @@ def procfile(f):
 
   menu = None
   # convert these to a dictionary.
+  showmap = True
   showfooter = True
   showsourcelink = False
   showlastupdated = True
@@ -1547,6 +1548,9 @@ def procfile(f):
           hb(f.outf, '|\n', s)
         else:
           hb(f.outf, '<p>|</p>\n', s)
+
+  if showmap:
+    out(f.outf, "<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=DF7_1ZanfOhlKEGYeicW6EJ6jSSX1DNjXJijxxY_ZaY'></script>\n")
 
   if showfooter and (showlastupdated or showsourcelink):
     out(f.outf, f.conf['footerstart'])

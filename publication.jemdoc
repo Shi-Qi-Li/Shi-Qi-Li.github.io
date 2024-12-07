@@ -54,3 +54,23 @@ International Conference on Pattern Recognition (ICPR) 2022 workshop, {{<font co
 \n
 [https://link.springer.com/chapter/10.1007/978-3-031-37660-3_5 paper] / [https://github.com/HAIV-Lab/ICPR22w code] 
 ~~~
+
+
+== Preprint
+~~~
+3D-JEPA: A Joint Embedding Predictive Architecture for 3D Self-Supervised Representation Learning \n
+Naiwen Hu, Haozhe Cheng, Yifan Xie, *Shiqi Li*, Jihua Zhu \n
+arXiv preprint arXiv:2409.15803. \n
+~~~
+
+~~~
+Multiple Rotation Averaging with Constrained Reweighting Deep Matrix Factorization \n
+*Shiqi Li*, Jihua Zhu, Yifan Xie, Naiwen Hu, Mingchen Zhu, Zhongyu Li, Di Wang \n
+arXiv preprint arXiv:2409.09790. \n
+~~~
+
+~~~
+Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval \n
+*Shiqi Li*, Jihua Zhu, Yifan Xie, Mingchen Zhu \n
+arXiv preprint arXiv:2407.07525. \n 
+~~~

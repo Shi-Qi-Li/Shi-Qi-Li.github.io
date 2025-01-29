@@ -2,6 +2,15 @@
 ==Publication
 
 ~~~
+{}{img_left}{photos/pulication/icra2025.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
+Multiple Rotation Averaging with Constrained Reweighting Deep Matrix Factorization\n
+*Shiqi Li*, Jihua Zhu, Yifan Xie, Naiwen Hu, Mingchen Zhu, Zhongyu Li, Di Wang\n
+IEEE Conference on Robotics and Automation (ICRA) 2025 \n
+\n
+[https://arxiv.org/abs/2409.09790 paper]
+~~~
+
+~~~
 {}{img_left}{photos/pulication/ral2024a.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration\n 
 *Shiqi Li*, Jihua Zhu, Yifan Xie, Naiwen Hu, Di Wang\n
@@ -22,7 +31,7 @@ Knowledge-Based Systems (KBS) 2024 \n
 ~~~
 {}{img_left}{photos/pulication/tgrs2024.png}{alt text}{250}{*}{https://github.com/Shi-Qi-Li/Shi-Qi-Li.github.io/blob/main/}
 HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching\n
-Yifan xie, Jihua Zhu, *Shiqi Li*, Naiwen Hu, Pengcheng Shi\n
+Yifan Xie, Jihua Zhu, *Shiqi Li*, Naiwen Hu, Pengcheng Shi\n
 IEEE Transactions on Geoscience and Remote Sensing (TGRS) 2024 \n
 \n
 [https://ieeexplore.ieee.org/document/10445523 paper] / [https://github.com/IvanXie416/HECPG code]
@@ -61,12 +70,6 @@ International Conference on Pattern Recognition (ICPR) 2022 workshop, {{<font co
 3D-JEPA: A Joint Embedding Predictive Architecture for 3D Self-Supervised Representation Learning \n
 Naiwen Hu, Haozhe Cheng, Yifan Xie, *Shiqi Li*, Jihua Zhu \n
 arXiv preprint arXiv:2409.15803. \n
-~~~
-
-~~~
-Multiple Rotation Averaging with Constrained Reweighting Deep Matrix Factorization \n
-*Shiqi Li*, Jihua Zhu, Yifan Xie, Naiwen Hu, Mingchen Zhu, Zhongyu Li, Di Wang \n
-arXiv preprint arXiv:2409.09790. \n
 ~~~
 
 ~~~
